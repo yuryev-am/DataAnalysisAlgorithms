@@ -1,2 +1,1 @@
-# DataAnalysisAlgorithms
-Data analysis algorithms
+# Алгоритмы анализа данных
